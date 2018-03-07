@@ -133,6 +133,10 @@ iframe {
   height: 603px;
 }
 
+.deals {
+  margin-left: 2%;
+}
+
 .left {
 	float: left;
 }
